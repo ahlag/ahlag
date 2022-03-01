@@ -10,6 +10,10 @@
 
 ✈️ I love **traveling** and **hiking** too. I travel once a year overseas and have been on solo trips to **England** in _2018_ and to **Canada** in _2020_.
 
+🌐  I currently reside in Tokyo, Japan🇯🇵 and have been in this country since Junior High School. Originally from Malaysia 🇲🇾.
+
+💮 I speak English, Mandarin, Japanese and some Malay.
+
 ## &#x1f4c8; GitHub Stats
 <div align="center">
   <a href="https://github.com/ahlag/ahlag">
