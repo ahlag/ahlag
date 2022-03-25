@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Chang yong Lik, a **Data Platform Engineer** (specializing in **Machine Learning Deployments and Constructing Data Platform**).
+🎓 I am Chang yong Lik, a **Data Platform Engineer** (specializing in **Machine Learning Deployments** and **Constructing Data Platform**).
 
 📚 I enjoy reading books on **finance** and **programming**. 
 
