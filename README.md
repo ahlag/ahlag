@@ -115,5 +115,7 @@
 - Kaggle
 - AWS
 - Azure
+- Design Pattern
+- Microservice/Domain Driven Development
 - Finance/Business
 - Hiking/Traveling/Cycling
