@@ -14,34 +14,6 @@
 
 💮 I speak English, Mandarin, Japanese and some Malay.
 
-🕹️ Current Interests
-- Java
-- Go
-- Scala
-- Flutter
-- NextJS
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
-- Tensorflow
-- PyTorch
-- Numerical Analysis
-- Data Structures and Algorithms
-- Building Progressive Web Apps
-- Hadoop
-- Spark
-- Kafka
-- Docker
-- Kubernetes
-- Ansible
-- ElasticSearch
-- OSS
-- LeetCode
-- Kaggle
-- Finance/Business
-- Hiking/Traveling/Cycling
-
 ## &#x1f4c8; GitHub Stats
 <div align="center">
   <a href="https://github.com/ahlag/ahlag">
@@ -115,3 +87,31 @@
  ## 🔗 Links
  [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cylik/)
  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/cylik93)
+ 
+ 🕹️ Current Interests
+- Java
+- Go
+- Scala
+- Flutter
+- NextJS
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+- Tensorflow
+- PyTorch
+- Numerical Analysis
+- Data Structures and Algorithms
+- Building Progressive Web Apps
+- Hadoop
+- Spark
+- Kafka
+- Docker
+- Kubernetes
+- Ansible
+- ElasticSearch
+- OSS
+- LeetCode
+- Kaggle
+- Finance/Business
+- Hiking/Traveling/Cycling
