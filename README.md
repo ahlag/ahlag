@@ -10,9 +10,37 @@
 
 ✈️ I love **traveling** and **hiking** too. I travel once a year overseas and have been on solo trips to **England** in _2018_ and to **Canada** in _2020_.
 
-🌐  I currently reside in Tokyo, Japan🇯🇵 and have been in this country since Junior High School. Originally from Malaysia 🇲🇾.
+🌐 I currently reside in Tokyo, Japan🇯🇵 and have been in this country since Junior High School. Originally from Malaysia 🇲🇾.
 
 💮 I speak English, Mandarin, Japanese and some Malay.
+
+🕹️ Current Interests
+- Java
+- Go
+- Scala
+- Flutter
+- NextJS
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+- Tensorflow
+- PyTorch
+- Numerical Analysis
+- Data Structures and Algorithms
+- Building Progressive Web Apps
+- Hadoop
+- Spark
+- Kafka
+- Docker
+- Kubernetes
+- Ansible
+- ElasticSearch
+- OSS
+- LeetCode
+- Kaggle
+- Finance/Business
+- Hiking/Traveling/Cycling
 
 ## &#x1f4c8; GitHub Stats
 <div align="center">
