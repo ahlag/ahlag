@@ -88,7 +88,7 @@
  [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cylik/)
  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/cylik93)
  
- 🕹️ Current Interests
+ ## 🕹️ Current Interests
 - Java
 - Go
 - Scala
