@@ -113,5 +113,7 @@
 - OSS
 - LeetCode
 - Kaggle
+- AWS
+- Azure
 - Finance/Business
 - Hiking/Traveling/Cycling
