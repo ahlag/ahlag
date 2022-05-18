@@ -14,6 +14,7 @@
 
 💮 I speak English, Mandarin, Japanese and some Malay.
 
+<!-- 
 ## &#x1f4c8; GitHub Stats
 <div align="center">
   <a href="https://github.com/ahlag/ahlag">
@@ -25,7 +26,7 @@
     <br />
     <img src="https://github-readme-stats.vercel.app/api?username=ahlag&show_icons=true&hide_border=true" alt="Chang Yong Lik's GitHub Stats">
     <br />
-</div>
+</div> -->
   
 ## 🛠️ Skills
 
