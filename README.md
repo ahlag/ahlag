@@ -1,5 +1,4 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
-
+# Hi there!
 ## 🚀 About Me
 
 🎓 I am Chang yong Lik, a **Data Platform Engineer** (specializing in **Machine Learning Deployments** and **Constructing Data Platform**).
