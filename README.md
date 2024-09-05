@@ -1,7 +1,5 @@
 # Hi there!
-## 🚀 About Me
-
-Hello! 🚀 Welcome to my profile.
+## Hello! 🚀 Welcome to my profile.
 
 🎓 I'm Chang Yong Lik, a Data Platform Engineer specializing in Machine Learning deployments and data platform architecture.
 
