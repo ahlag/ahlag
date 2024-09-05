@@ -1,7 +1,7 @@
 # Hi there!
 ## Hello! 🚀 Welcome to my profile.
 
-🎓 I'm Chang Yong Lik, a Data Platform Engineer specializing in Machine Learning deployments and data platform architecture.
+🎓 I'm Chang Yong Lik, a Machine Learning Engineer specializing in Machine Learning deployments and data platform architecture.
 
 📚 In my downtime, I love reading about finance and programming. I'm always on the lookout for insightful Machine Learning or tech articles and enjoy creating web apps for fun.
 
