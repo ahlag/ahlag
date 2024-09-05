@@ -1,31 +1,27 @@
 # Hi there!
 ## 🚀 About Me
 
-🎓 I am Chang yong Lik, a **Data Platform Engineer** (specializing in **Machine Learning Deployments** and **Constructing Data Platform**).
+Hello! 🚀 Welcome to my profile.
 
-📚 I enjoy reading books on **finance** and **programming**. 
+🎓 I'm Chang Yong Lik, a Data Platform Engineer specializing in Machine Learning deployments and data platform architecture.
 
-🔍 During my free time, I like building web apps and reading Machine Learning or tech related articles. Currently, learning on Kaggle and LeetCode to brush up on my coding skills to solve actual problems.
+📚 In my downtime, I love reading about finance and programming. I'm always on the lookout for insightful Machine Learning or tech articles and enjoy creating web apps for fun.
 
-✈️ I love **traveling** and **hiking** too. I travel once a year overseas and have been on solo trips to **England** in _2018_ and to **Canada** in _2020_.
+🔍 Currently, I'm enhancing my coding skills through challenges on Kaggle and LeetCode, tackling real-world problems.
 
-🌐 I currently reside in Tokyo, Japan🇯🇵 and have been in this country since Junior High School. Originally from Malaysia 🇲🇾.
+✈️ Travel and hiking are passions of mine. I’ve traveled solo to England in 2018 and Canada in 2020 and take annual trips abroad.
 
-💮 I speak English, Mandarin, Japanese and some Malay.
+🌐 Originally from Malaysia 🇲🇾, I’ve been living in Tokyo, Japan 🇯🇵 since junior high school.
 
-<!-- 
-## &#x1f4c8; GitHub Stats
-<div align="center">
-  <a href="https://github.com/ahlag/ahlag">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahlag&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-   <a href="https://github.com/ahlag/ahlag">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahlag&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ahlag's GitHub Stats" />
-<a href="https://github.com/ahlag/ahlag"> 
-    <img src="https://github-profile-trophy.vercel.app/?username=ahlag&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=ahlag&show_icons=true&hide_border=true" alt="Chang Yong Lik's GitHub Stats">
-    <br />
-</div> -->
+💮 I’m multilingual, speaking English, Mandarin, Japanese, and some Malay.
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ahlag&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ahlag&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahlag&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ahlag&limit=5&theme=dark&combine_all_yearly_contributions=true)
   
 ## 🛠️ Skills
 
@@ -89,32 +85,17 @@
  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/cylik93)
  
  ## 🕹️ Current Interests
-- Java
 - Go
-- Scala
 - Flutter
-- NextJS
 - Machine Learning
 - Deep Learning
-- Computer Vision
 - Natural Language Processing
 - Tensorflow
 - PyTorch
 - Numerical Analysis
 - Data Structures and Algorithms
-- Building Progressive Web Apps
-- Hadoop
-- Spark
-- Kafka
-- Docker
-- Kubernetes
-- Ansible
 - ElasticSearch
-- OSS
-- LeetCode
 - Kaggle
-- AWS
-- Azure
 - Design Pattern
 - Microservice/Domain Driven Development
 - Finance/Business
