@@ -78,14 +78,10 @@ FYI, I do not endorse any Machine Learning and Software Engineering bootcamps.
  
  ## 🕹️ Current Interests
 - Go
-- Flutter
 - Machine Learning
 - Deep Learning
 - Natural Language Processing
-- Tensorflow
 - PyTorch
-- Numerical Analysis
-- Data Structures and Algorithms
 - ElasticSearch
 - Kaggle
 - Design Pattern
