@@ -13,7 +13,7 @@
 
 🌐 Originally from Malaysia 🇲🇾, I've been living in Tokyo, Japan 🇯🇵 since junior high school.
 
-💮 I'm multilingual, speaking English, Mandarin, Cantonese, and Japanese, and I'm actively brushing up on my languages.
+💮 I'm multilingual, speaking English, Mandarin, Cantonese, Japanese, and Malay, and I'm actively brushing up on my languages.
 
 FYI, I do not endorse any Machine Learning and Software Engineering bootcamps.
 
